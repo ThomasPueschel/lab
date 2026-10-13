@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Comparative Evolutionary Anthropology (CEA)"
+  site-url: https://ThomasPueschel.github.io/lab
+  description: "Comparative Evolutionary Anthropology — University of Oxford"
+  favicon: images/favicon.ico
+  
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Opportunities"
+        href: opportunities.qmd
+    right:
+      - icon: github
+        href: https://github.com/ThomasPueschel
+        aria-label: GitHub
+      - icon: twitter
+        href: https://twitter.com/ThomasPuschel
+        aria-label: Twitter
+
+  page-footer:
+    left: "© 2024 Comparative Evolutionary Anthropology (CEA) · University of Oxford"
+    right:
+      - icon: envelope
+        href: mailto:thomas.puschel@anthro.ox.ac.uk
+
+format:
+  html:
+    theme: 
+      light: [flatly, styles.css]
+    toc: false
+    link-external-icon: false
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

@@ -1,0 +1,68 @@
+---
+title: ""
+---
+
+## Opportunities {.section-title}
+<hr class="section-rule">
+
+We welcome applications from motivated students and researchers who share our interest in the 
+evolution of humans and primates. The lab is based at the 
+[School of Anthropology and Museum Ethnography](https://www.anthro.ox.ac.uk/), 
+University of Oxford.
+
+Please read the descriptions below and [get in touch](mailto:thomas.puschel@anthro.ox.ac.uk) 
+with a CV and a brief description of your research interests before making a formal application.
+
+---
+
+```{=html}
+<div class="opportunity-box">
+  <span class="badge-type">DPhil (PhD)</span>
+  <h4>DPhil Students</h4>
+  <p>
+    We supervise DPhil students through the 
+    <a href="https://www.ox.ac.uk/admissions/graduate/courses/dphil-anthropology" target="_blank">
+    DPhil in Anthropology</a> at the University of Oxford. Strong candidates will have a 
+    background in biological anthropology, evolutionary biology, zoology, or a related field, 
+    and ideally some experience with quantitative or computational methods (morphometrics, 
+    phylogenetics, biomechanics, or statistics).
+  </p>
+  <p>
+    Funding is available through Oxford's graduate scholarship schemes and external fellowships 
+    (e.g. Clarendon, NERC DTP). We encourage prospective students to contact Thomas 
+    <strong>well in advance</strong> of application deadlines to discuss project ideas.
+  </p>
+</div>
+
+<div class="opportunity-box">
+  <span class="badge-type">Postdoctoral</span>
+  <h4>Postdoctoral Researchers</h4>
+  <p>
+    We are interested in hosting postdoctoral researchers through fellowship schemes such as:
+  </p>
+  <ul>
+    <li><a href="https://www.leverhulme.ac.uk/early-career-fellowships" target="_blank">Leverhulme Early Career Fellowship</a></li>
+    <li><a href="https://royalsociety.org/grants/newton-international/" target="_blank">Newton International Fellowship (Royal Society)</a></li>
+    <li><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/" target="_blank">Marie Skłodowska-Curie Actions</a></li>
+    <li><a href="https://wellcome.org/grant-funding/schemes/early-career-awards" target="_blank">Wellcome Early Career Award</a></li>
+    <li><a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" target="_blank">HFSP Postdoctoral Fellowship</a></li>
+  </ul>
+  <p>If you are interested in applying for any of these with Thomas as a sponsor, please get in touch.</p>
+</div>
+
+<div class="opportunity-box">
+  <span class="badge-type">Visiting</span>
+  <h4>Visiting Researchers & Students</h4>
+  <p>
+    We welcome visiting researchers and graduate students for short- or medium-term stays. 
+    Oxford offers several mechanisms for formal visiting student status. Please contact 
+    Thomas to discuss possibilities.
+  </p>
+</div>
+```
+
+---
+
+**Contact:** [thomas.puschel@anthro.ox.ac.uk](mailto:thomas.puschel@anthro.ox.ac.uk)  
+**Address:** Institute of Human Sciences, The Pauling Centre, 58a Banbury Rd, Oxford OX2 6QS, UK
+
