@@ -8,7 +8,7 @@ include-in-header:
 
 <hr class="section-rule">
 
-*Preprints are listed separately at the end. † denotes corresponding author.*
+*Preprints are listed separately at the end. † denotes corresponding author. A full list of publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=v8oXbxgAAAAJ).*
 
 ---
 
