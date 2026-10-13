@@ -6,7 +6,7 @@ website:
   title: "Comparative Evolutionary Anthropology (CEA)"
   site-url: https://ThomasPueschel.github.io/lab
   description: "Comparative Evolutionary Anthropology — University of Oxford"
-  favicon: images/favicon.ico
+  favicon: images/favicon.png
   
   navbar:
     left:
