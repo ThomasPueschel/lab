@@ -53,8 +53,12 @@ title: ""
       <img src="images/reece-hammond.png" alt="Reece Hammond" style="width:120px;height:120px;object-fit:cover;border-radius:50%;border:3px solid var(--blue-light);margin-bottom:0.8rem;">
       <h5>Reece Hammond</h5>
       <div class="role">DPhil Candidate</div>
-      <p class="bio">Reece is a biological anthropologist interested in primate and hominin life history evolution. His DPhil research uses phylogenetic comparative methods and Bayesian modelling to reconstruct reproductive strategies in extinct hominins, asking how and when distinctively human patterns of interbirth interval, offspring dependency, and cooperative breeding emerged across our evolutionary lineage.</p>
-      <p class="bio" style="margin-top:0.6rem;"><strong>Research interests:</strong> Life history evolution, reproductive biology, hominin evolution, phylogenetic comparative methods, Bayesian statistics</p>
+      <p class="bio">Reece is an evolutionary anthropologist interested in using comparative methods to reconstruct key evolutionary transitions in human behaviour and cognition. His DPhil research focuses on using the behavioural responses of extant non-human primates towards their dead to reconstruct the evolution of humanity&#39;s unique relationship with death. Reece is also conducting research on the evolution of the hominin life history pattern to infer when modern human reproductive behaviour emerged in the hominin lineage.</p>
+      <p class="bio" style="margin-top:0.6rem;"><strong>Research interests:</strong> Thanatology, life history, infant corpse carrying, chimpanzees, human evolution</p>
+      <p class="bio" style="margin-top:0.4rem;font-size:0.85rem;color:var(--muted);">MSc Cognitive &amp; Evolutionary Anthropology, University of Oxford (2024) · BA Archaeology and Anthropology, University of Oxford (2023)</p>
+      <div style="margin-top:0.8rem;">
+        <a href="https://orcid.org/0009-0007-2669-8282" target="_blank" class="btn btn-sm btn-outline-secondary">ORCID</a>
+      </div>
     </div>
   </div>
 
