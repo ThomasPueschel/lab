@@ -50,8 +50,8 @@ title: ""
 
   <div class="col-md-6">
     <div class="person-card text-start" style="background:var(--blue-light);border-radius:8px;padding:1.5rem;">
-      <img src="images/james-photo.png" alt="James" style="width:120px;height:120px;object-fit:cover;border-radius:50%;border:3px solid var(--blue-light);margin-bottom:0.8rem;">
-      <h5>James</h5>
+      <img src="images/james-photo.png" alt="Jamie Scott" style="width:120px;height:120px;object-fit:cover;border-radius:50%;border:3px solid var(--blue-light);margin-bottom:0.8rem;">
+      <h5>Jamie Scott</h5>
       <div class="role">Research Associate</div>
       <p class="bio">James is an interdisciplinary researcher whose work combines cognitive science, evolutionary anthropology, linguistics, and experimental archaeology. His PhD examined the effects of language on cognition and lithic tool production, and explored the implications for the evolution of the capacity for language. He is now expanding his research to broader problems in these fields while maintaining an interdisciplinary perspective. James teaches human evolution at Oxford and is a Lecturer in Biological Anthropology at Oxford Brookes University.</p>
       <p class="bio" style="margin-top:0.6rem;"><strong>Research interests:</strong> Language evolution, language and cognition, palaeolithic archaeology, experimental archaeology, cognitive evolution, hominin evolution</p>
