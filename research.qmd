@@ -13,10 +13,17 @@ We take a **comparative approach** to understanding human uniqueness, combining 
   <div class="col-md-6 col-lg-4">
     <div class="research-card">
       <div class="rc-icon">🦴</div>
-      <h4>3D Morphometrics & Shape Analysis</h4>
-      <p>We use geometric morphometrics and 3D scanning to quantify anatomical variation across 
-      primates and hominins, identifying patterns of shape change through evolutionary time and 
-      testing hypotheses about adaptation and constraint.</p>
+      <h4>3D Morphometrics &amp; Shape Analysis</h4>
+      <p>We use geometric morphometrics and 3D scanning to quantify anatomical variation across
+      primates and hominins, identifying patterns of shape change through evolutionary time and
+      testing hypotheses about adaptation and constraint. By capturing the geometry of bones in
+      fine detail, we can compare skeletal form across species and fossil specimens in ways that
+      traditional linear measurements cannot.</p>
+      <p style="margin-top:0.8rem;font-size:0.85rem;">
+        <a href="https://doi.org/10.1002/ajpa.22882" target="_blank" style="color:var(--accent);">
+          Example publication →
+        </a>
+      </p>
     </div>
   </div>
 
@@ -24,7 +31,16 @@ We take a **comparative approach** to understanding human uniqueness, combining 
     <div class="research-card">
       <div class="rc-icon">⚙️</div>
       <h4>Virtual Computational Biomechanics</h4>
-      <p>We use computational modelling to reconstruct and investigate the biomechanical performance of biological structures and systems in living and extinct species. Combining approaches such as finite element analysis, computational fluid dynamics, and musculoskeletal modelling, we explore locomotion, feeding, tool use, and other functional adaptations throughout human and primate evolution.</p>
+      <p>We use computational modelling — including finite element analysis, musculoskeletal
+      simulation, and computational fluid dynamics — to reconstruct the mechanical performance
+      of biological structures in living and extinct species. This lets us test functional
+      hypotheses about locomotion, feeding, and tool use that cannot be addressed through
+      morphology alone, opening a window onto the behaviour of animals known only from fossils.</p>
+      <p style="margin-top:0.8rem;font-size:0.85rem;">
+        <a href="https://doi.org/10.1038/s41598-020-60590-6" target="_blank" style="color:var(--accent);">
+          Example publication →
+        </a>
+      </p>
     </div>
   </div>
 
@@ -32,19 +48,33 @@ We take a **comparative approach** to understanding human uniqueness, combining 
     <div class="research-card">
       <div class="rc-icon">🌳</div>
       <h4>Phylogenetic Comparative Methods</h4>
-      <p>We develop and apply statistical methods for analysing trait evolution along phylogenetic 
-      trees — estimating divergence times, modelling rates of morphological and life-history 
-      change, and testing macroevolutionary hypotheses across primates and hominins.</p>
+      <p>We develop and apply statistical methods for analysing trait evolution along phylogenetic
+      trees — estimating divergence times, modelling rates of morphological and life-history
+      change, and testing macroevolutionary hypotheses across primates and hominins. By situating
+      traits within an explicit evolutionary framework, we can ask not just what changed, but when,
+      how fast, and under what selective pressures.</p>
+      <p style="margin-top:0.8rem;font-size:0.85rem;">
+        <a href="https://doi.org/10.1073/pnas.2423833122" target="_blank" style="color:var(--accent);">
+          Example publication →
+        </a>
+      </p>
     </div>
   </div>
 
   <div class="col-md-6 col-lg-4">
     <div class="research-card">
       <div class="rc-icon">🧠</div>
-      <h4>Human Brain & Body Evolution</h4>
-      <p>A major focus is on the evolution of encephalization and body size in the hominin lineage — 
-      including the timing, tempo, and drivers of brain expansion, and what distinguishes 
-      <em>Homo sapiens</em> from earlier hominins and our primate relatives.</p>
+      <h4>Human Brain &amp; Body Evolution</h4>
+      <p>A major focus is the evolution of encephalization and body size in the hominin lineage —
+      including the timing, tempo, and drivers of brain expansion, and what distinguishes
+      <em>Homo sapiens</em> from earlier hominins and our primate relatives. We combine
+      phylogenetic modelling with the fossil record to understand how and why the human brain
+      grew so large, and what ecological and social factors shaped body size across our lineage.</p>
+      <p style="margin-top:0.8rem;font-size:0.85rem;">
+        <a href="https://doi.org/10.1073/pnas.2409542121" target="_blank" style="color:var(--accent);">
+          Example publication →
+        </a>
+      </p>
     </div>
   </div>
 
@@ -52,9 +82,16 @@ We take a **comparative approach** to understanding human uniqueness, combining 
     <div class="research-card">
       <div class="rc-icon">🦧</div>
       <h4>Primate Adaptive Evolution</h4>
-      <p>We investigate the adaptive radiation of primates — how they diversified into different 
-      ecological niches, how their locomotor and dietary anatomy evolved, and what drives 
-      macroevolutionary patterns of diversification and body plan innovation.</p>
+      <p>We investigate the adaptive radiation of primates — how they diversified into different
+      ecological niches, how their locomotor and dietary anatomy evolved, and what drives
+      macroevolutionary patterns of diversification and body plan innovation. New World monkeys,
+      apes, and fossil primates from across the globe all feature in this work, which integrates
+      morphological, biomechanical, and phylogenetic data.</p>
+      <p style="margin-top:0.8rem;font-size:0.85rem;">
+        <a href="https://doi.org/10.1098/rsif.2018.0520" target="_blank" style="color:var(--accent);">
+          Example publication →
+        </a>
+      </p>
     </div>
   </div>
 
@@ -62,13 +99,18 @@ We take a **comparative approach** to understanding human uniqueness, combining 
     <div class="research-card">
       <div class="rc-icon">🌍</div>
       <h4>Palaeoanthropological Fieldwork</h4>
-      <p>We participate in the 
-      <a href="https://www.gorongosa.org/science/palaeo-primate-project" target="_blank">Palaeo-Primate Project</a> 
-      in Gorongosa National Park, Mozambique, recovering Miocene fossil primates from 
-      the southern East African Rift — some of the oldest known from coastal woodland environments.</p>
+      <p>We participate in the
+      <a href="https://www.gorongosa.org/science/palaeo-primate-project" target="_blank">Palaeo-Primate Project</a>
+      in Gorongosa National Park, Mozambique, recovering Miocene fossil primates from
+      the southern East African Rift — some of the oldest known from coastal woodland environments.
+      This fieldwork grounds our evolutionary questions in the direct evidence of the fossil record.</p>
+      <p style="margin-top:0.8rem;font-size:0.85rem;">
+        <a href="https://doi.org/10.1016/j.isci.2023.107644" target="_blank" style="color:var(--accent);">
+          Example publication →
+        </a>
+      </p>
     </div>
   </div>
 
 </div>
 ```
-
