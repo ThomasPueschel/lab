@@ -1,8 +1,10 @@
-# Comparative Evolutionary Anthropology — Lab Website
+# CEA Lab Website
 
-Quarto website for the Comparative Evolutionary Anthropology group, University of Oxford.
+Website for the Comparative Evolutionary Anthropology group at the University of Oxford, led by Thomas Püschel. Built with [Quarto](https://quarto.org) and deployed via GitHub Actions to GitHub Pages.
 
-## Local development
+🌐 **https://ThomasPueschel.github.io/lab**
+
+## Local preview
 
 ```bash
 quarto preview
@@ -10,6 +12,4 @@ quarto preview
 
 ## Deployment
 
-Push to `main` — GitHub Actions renders and deploys to GitHub Pages automatically.
-
-Site: https://ThomasPueschel.github.io/lab
+Pushing to `main` triggers the GitHub Actions workflow, which renders the site and publishes it to GitHub Pages automatically.
