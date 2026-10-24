@@ -31,7 +31,7 @@ website:
         aria-label: Twitter
 
   page-footer:
-    left: "© 2024 Comparative Evolutionary Anthropology (CEA) · University of Oxford"
+    left: "© 2026 Comparative Evolutionary Anthropology (CEA) · University of Oxford"
     right:
       - icon: envelope
         href: mailto:thomas.puschel@anthro.ox.ac.uk
