@@ -1,0 +1,81 @@
+---
+title: ""
+---
+
+## Resources {.section-title}
+<hr class="section-rule">
+
+We develop open-source software to support phylogenetic comparative analysis. Below are tools produced by the lab that are freely available for use and adaptation.
+
+---
+
+### phylogp — Phylogenetic Gaussian Processes in R
+
+**phylogp** is an R package for fitting continuous trait-evolution models on phylogenies using Gaussian processes. Rather than treating each evolutionary model as a separate algorithm, it frames them all as covariance (kernel) functions on the tree — so complex models can be built by combining simple components, validated analytically, and fitted in Stan by maximum likelihood or full Bayesian inference.
+
+```{=html}
+<div class="row g-4 mt-2 mb-4 align-items-center">
+  <div class="col-lg-7">
+    <h5>What it does</h5>
+    <p>The package lets you compose kernels from building blocks — Brownian motion, Ornstein–Uhlenbeck,
+    relaxed rates, rate-through-time, phylogeny plus geography, evolving slopes, Student-<em>t</em>
+    residuals, and user-defined branch-wise kernels — check their validity on a given tree, and fit
+    them with Stan via <strong>cmdstanr</strong>. Branch-wise kernels use an O(<em>N</em>) pruning
+    recursion for the likelihood and an O(<em>N</em>) message-passing pass for exact leave-one-out
+    densities, making it practical for large phylogenies.</p>
+
+    <h5 class="mt-3">Key capabilities</h5>
+    <ul>
+      <li><strong>Kernel composition</strong> — add components to build any covariance structure</li>
+      <li><strong>Validity checks</strong> — theory-based and numerical checks before fitting</li>
+      <li><strong>Model comparison</strong> — PSIS-LOO cross-validation and exact LOO refits</li>
+      <li><strong>Ancestral states &amp; prediction</strong> — kriging on the tree for unobserved species</li>
+      <li><strong>Classical benchmarks</strong> — ML fits reproduce <code>phylolm</code> for BM, Pagel's λ/κ/δ, OU, and early burst</li>
+    </ul>
+  </div>
+  <div class="col-lg-5 text-center">
+    <img src="images/phylogp-gallery.png"
+         alt="Kernel gallery: correlation structures implied by six phylogenetic kernels on the same tree"
+         style="max-width:100%;border-radius:10px;box-shadow:0 4px 16px rgba(0,0,0,0.12);">
+    <p class="text-muted mt-2" style="font-size:0.82rem;">
+      Correlation between species implied by six kernels on the same tree: Brownian motion,
+      Pagel's λ, early burst, OU, relaxed rates, and a squared-exponential kernel.
+    </p>
+  </div>
+</div>
+```
+
+#### Installation
+
+phylogp requires [CmdStan](https://mc-stan.org/cmdstanr/) for model fitting. Install it first, then the package:
+
+```r
+# 1. Install cmdstanr and CmdStan
+install.packages(c("remotes", "cmdstanr"),
+                 repos = c("https://stan-dev.r-universe.dev", getOption("repos")))
+cmdstanr::install_cmdstan()
+
+# 2. Install phylogp (with vignettes — takes a few minutes)
+remotes::install_github("ThomasPueschel/phylogp", build_vignettes = TRUE)
+```
+
+Kernel design tools work without Stan if you want to explore covariance structures before fitting.
+
+#### Citation
+
+If you use phylogp in your research, please cite:
+
+> Püschel, T.A. *et al.* (2024). *phylogp: Phylogenetic comparative models as Gaussian processes.* EcoEvoRxiv. <https://doi.org/10.32942/X2D99V>
+
+```{=html}
+<div class="mt-3">
+  <a href="https://github.com/ThomasPueschel/phylogp" target="_blank"
+     class="btn btn-primary me-2" style="background:var(--blue);border-color:var(--blue);">
+    <i class="bi bi-github me-1"></i> View on GitHub
+  </a>
+  <a href="https://doi.org/10.32942/X2D99V" target="_blank"
+     class="btn btn-outline-secondary">
+    Read the preprint →
+  </a>
+</div>
+```
