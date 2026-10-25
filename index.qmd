@@ -1,7 +1,6 @@
 ---
 title: ""
 page-layout: full
-include-after-body: hero-random.html
 ---
 
 ```{=html}
@@ -82,4 +81,25 @@ include-after-body: hero-random.html
        style="max-width:100%;border-radius:12px;box-shadow:0 4px 16px rgba(0,0,0,0.12);">
   <p class="text-muted mt-2" style="font-size:0.9rem;">The CEA group, Oxford, 2025</p>
 </div>
+```
+
+```{=html}
+<script>
+(function() {
+  var images = [
+    'images/hero-illustration.png',
+    'images/hero-1.jpg',
+    'images/hero-2.jpg',
+    'images/hero-3.jpg',
+    'images/hero-4.jpg'
+  ];
+  var last = -1;
+  try { last = parseInt(localStorage.getItem('heroIdx') || '-1', 10); } catch(e) {}
+  var pool = images.map(function(_,i){return i;}).filter(function(i){return i !== last;});
+  var idx = pool[Math.floor(Math.random() * pool.length)];
+  try { localStorage.setItem('heroIdx', idx); } catch(e) {}
+  var el = document.getElementById('hero-img');
+  if (el) el.src = images[idx];
+})();
+</script>
 ```
