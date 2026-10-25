@@ -23,7 +23,7 @@ page-layout: full
     </div>
     <div class="col-lg-5 mt-4 mt-lg-0 text-center">
       <img id="hero-img"
-           src="images/hero-illustration.png"
+           src="images/hero-1.jpg"
            alt="Comparative evolutionary anthropology illustration"
            style="max-width:100%;border-radius:12px;">
     </div>
@@ -87,7 +87,6 @@ page-layout: full
 <script>
 (function() {
   var images = [
-    'images/hero-illustration.png',
     'images/hero-1.jpg',
     'images/hero-2.jpg',
     'images/hero-3.jpg',
