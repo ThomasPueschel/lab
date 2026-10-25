@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "images/hero-*"
 
 website:
   title: "Comparative Evolutionary Anthropology (CEA)"
