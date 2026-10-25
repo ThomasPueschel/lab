@@ -43,6 +43,7 @@ format:
     theme: 
       light: [flatly, styles.css]
     toc: false
+    anchor-sections: false
     link-external-icon: false
     link-external-newwindow: true
 
