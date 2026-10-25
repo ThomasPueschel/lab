@@ -32,27 +32,6 @@ page-layout: full
 ```
 
 
-```{=html}
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  var images = [
-    'images/hero-illustration.png',
-    'images/hero-1.jpg',
-    'images/hero-2.jpg',
-    'images/hero-3.jpg',
-    'images/hero-4.jpg'
-  ];
-  var last = -1;
-  try { last = parseInt(localStorage.getItem('heroIdx') || '-1', 10); } catch(e) {}
-  var pool = images.map(function(_,i){return i;}).filter(function(i){return i !== last;});
-  var idx = pool[Math.floor(Math.random() * pool.length)];
-  try { localStorage.setItem('heroIdx', idx); } catch(e) {}
-  var el = document.getElementById('hero-img');
-  if (el) el.src = images[idx];
-});
-</script>
-```
-
 ---
 
 ## News {.section-title}
