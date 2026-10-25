@@ -1,6 +1,7 @@
 ---
 title: ""
 page-layout: full
+include-after-body: hero-random.html
 ---
 
 ```{=html}
