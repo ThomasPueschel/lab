@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - "images/hero-*"
+    - "images/oxford-anthropology-logo.png"
 
 website:
   title: "Comparative Evolutionary Anthropology (CEA)"
@@ -33,7 +34,7 @@ website:
         aria-label: Twitter
 
   page-footer:
-    left: "© 2026 Comparative Evolutionary Anthropology (CEA) · University of Oxford"
+    left: '<a href="https://www.anthro.ox.ac.uk" target="_blank"><img src="/images/oxford-anthropology-logo.png" alt="Oxford Anthropology" style="height:44px;width:auto;vertical-align:middle;margin-right:0.75rem;"></a> © 2026 Comparative Evolutionary Anthropology (CEA) · University of Oxford'
     right:
       - icon: envelope
         href: mailto:thomas.puschel@anthro.ox.ac.uk
