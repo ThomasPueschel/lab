@@ -65,7 +65,7 @@ Kernel design tools work without Stan if you want to explore covariance structur
 
 If you use phylogp in your research, please cite:
 
-> Püschel, T.A. *et al.* (2024). *phylogp: Phylogenetic comparative models as Gaussian processes.* EcoEvoRxiv. <https://doi.org/10.32942/X2D99V>
+> Püschel, T.A. (2024). *phylogp: Phylogenetic comparative models as Gaussian processes.* EcoEvoRxiv. <https://doi.org/10.32942/X2D99V>
 
 ```{=html}
 <div class="mt-3">
