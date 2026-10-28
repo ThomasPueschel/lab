@@ -95,6 +95,7 @@ A curated list of openly available datasets that are useful for comparative stud
 | Springer et al. 2012, *PLoS ONE* | Time-calibrated primate supermatrix phylogeny (Newick trees in Text S2) | 367 species | [doi:10.1371/journal.pone.0049521](https://doi.org/10.1371/journal.pone.0049521) |
 | Upham, Esselstyn & Jetz 2019, *PLoS Biol.* | Species-level posterior sets of mammal phylogenies | All extant primates (~5,900 mammals) | [Dryad](https://doi.org/10.5061/dryad.tb03d03) · [VertLife subsets](https://vertlife.org/phylosubsets/) |
 | Avaria-Llautureo et al. 2025, *PNAS* | Posterior trees with fossil tips, fossil ages, palaeolocations and climate data | ~900 extant and fossil species | [Article & SI](https://doi.org/10.1073/pnas.2423833122) · [figshare](https://doi.org/10.6084/m9.figshare.29608814.v2) |
+| Kuderna et al. 2023, *Science* | Whole-genome sequencing data for 809 individuals | 233 species | [ENA PRJEB49549](https://www.ebi.ac.uk/ena/browser/view/PRJEB49549) |
 | **Fossils & calibrations** | | | |
 | de Vries & Beck 2023, *Palaeontol. Electron.* | Twenty-five justified fossil calibrations for primate divergences | Primates (25 nodes) | [doi:10.26879/1249](https://doi.org/10.26879/1249) |
 | Fossil Calibration Database | Curated node calibrations from the literature | Primate nodes included | [figshare](https://doi.org/10.6084/m9.figshare.34046970) |
@@ -111,6 +112,7 @@ A curated list of openly available datasets that are useful for comparative stud
 | **Brain size** | | | |
 | DeCasien, Williams & Higham 2017, *Nat. Ecol. Evol.* | Brain and body size, diet, group size and social system | Extant primates | [Supplementary Data 1](https://doi.org/10.1038/s41559-017-0112) |
 | Montgomery et al. 2010, *BMC Biol.* | Brain and body mass for extant genera and fossil species | 37 extant genera, 23 fossil species | [Additional file 1](https://doi.org/10.1186/1741-7007-8-9) |
+| AnimalTraits (Herberstein et al. 2022, *Sci. Data*) | Curated body mass, metabolic rate and brain size observations (CC0) | ~2,000 terrestrial animal species | [Zenodo](https://doi.org/10.5281/zenodo.6468938) · [animaltraits.org](https://animaltraits.org/) |
 | **Taxonomy, ranges & morphology** | | | |
 | Mammal Diversity Database | Current mammal taxonomy with synonyms | All recognised primate species | [mammaldiversity.org](https://www.mammaldiversity.org/) |
 | IUCN Red List spatial data | Species range polygons and threat status (free registration) | All assessed primates | [iucnredlist.org](https://www.iucnredlist.org/resources/spatial-data-download) |
