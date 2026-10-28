@@ -8,7 +8,7 @@ project:
 website:
   title: "Comparative Evolutionary Anthropology (CEA)"
   site-url: https://cea-lab.org
-  description: "Comparative Evolutionary Anthropology — University of Oxford"
+  description: "The Comparative Evolutionary Anthropology (CEA) group at the University of Oxford studies human uniqueness in comparative context, using phylogenetic methods, 3D morphometrics and the fossil record to understand primate and hominin evolution."
   favicon: images/favicon.png
   
   navbar:
