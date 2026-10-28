@@ -20,6 +20,10 @@ page-layout: full
         <a href="research.qmd" class="btn btn-primary me-2" style="background:var(--blue);border-color:var(--blue);">Our Research</a>
         <a href="opportunities.qmd" class="btn btn-outline-secondary">Join the Lab</a>
       </div>
+      <a href="https://www.anthro.ox.ac.uk" target="_blank" class="d-inline-flex align-items-center mt-4 text-decoration-none" style="gap:0.75rem;">
+        <img src="images/oxford-anthropology-logo.png" alt="Oxford Anthropology" style="height:72px;width:auto;">
+        <span class="text-muted" style="font-size:0.85rem;line-height:1.3;">Based at the School of Anthropology<br>&amp; Museum Ethnography, University of Oxford</span>
+      </a>
     </div>
     <div class="col-lg-5 mt-4 mt-lg-0 text-center">
       <img id="hero-img"
