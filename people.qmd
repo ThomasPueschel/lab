@@ -10,7 +10,7 @@ title: ""
 ```{=html}
 <div class="row align-items-start mb-5">
   <div class="col-md-3 text-center">
-    <img src="https://www.thomaspuschel.com/author/thomas-a.-puschel/avatar_hua0bb7063fa7d11f9884eed4f43d80652_311025_270x270_fill_q90_lanczos_center.jpg"
+    <img src="images/thomas-puschel.jpg"
          alt="Thomas A. Püschel"
          style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:3px solid var(--blue-light);">
   </div>
@@ -31,6 +31,7 @@ title: ""
       current position in 2023.
     </p>
     <div style="margin-top:0.8rem;">
+      <a href="https://www.thomaspuschel.com" target="_blank" class="btn btn-sm btn-outline-secondary me-1">Personal website</a>
       <a href="https://orcid.org/0000-0002-2231-2297" target="_blank" class="btn btn-sm btn-outline-secondary me-1">ORCID</a>
       <a href="https://scholar.google.com/citations?user=v8oXbxgAAAAJ" target="_blank" class="btn btn-sm btn-outline-secondary me-1">Google Scholar</a>
       <a href="https://github.com/ThomasPueschel" target="_blank" class="btn btn-sm btn-outline-secondary me-1">GitHub</a>
