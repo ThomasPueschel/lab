@@ -21,6 +21,8 @@ website:
         href: people.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "Press"
+        href: press.qmd
       - text: "Resources"
         href: resources.qmd
       - text: "Opportunities"

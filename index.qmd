@@ -1,6 +1,13 @@
 ---
 title: ""
 page-layout: full
+listing:
+  id: press
+  contents: media.yml
+  template: media-highlights.ejs
+  sort: false
+  include:
+    highlight: "yes"
 ---
 
 ```{=html}
@@ -72,6 +79,16 @@ page-layout: full
   <p>New paper in <em>PNAS</em>: <a href="https://doi.org/10.1073/pnas.2409542121" target="_blank">Hominin brain size increase has emerged from within-species encephalization</a> — Püschel, Nicholson, Baker, Barton &amp; Venditti.</p>
 </div>
 ```
+
+---
+
+## In the Press {.section-title}
+<hr class="section-rule">
+
+::: {#press}
+:::
+
+[All press coverage →](press.qmd){.btn .btn-outline-secondary .btn-sm .mt-3}
 
 ---
 

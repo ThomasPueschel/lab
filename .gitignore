@@ -3,3 +3,6 @@ _site/
 .DS_Store
 .git-rewrite/
 Claude outputs/
+
+/.quarto/
+**/*.quarto_ipynb

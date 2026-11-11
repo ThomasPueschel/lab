@@ -1,0 +1,16 @@
+---
+title: "Press"
+page-layout: article
+listing:
+  id: media
+  contents: media.yml
+  template: media.ejs
+  sort: false
+---
+
+<hr class="section-rule">
+
+*Selected press coverage of recent papers from the group.*
+
+::: {#media}
+:::
